@@ -1,0 +1,42 @@
+body {
+	background-color: black;
+	color:white;
+	font-family: jokerman;
+	margin-top: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 100px;
+	border-style: double;
+	border-color: 5a5c71;
+	 }
+
+a {color: fc3304;
+	text-decoration-style: dotted;
+}
+ 
+h1 {
+	background-color: rgba(90,92,113,0.4);
+}
+
+
+h2 {
+	background-color: rgba(90,92,113,0.4);
+}
+ 
+h3 {
+	background-color: rgba(90,92,113,0.4);
+}
+
+h4 {
+	background-color: rgba(90,92,113,0.4);
+}
+ img {
+ 	width: 400;
+ 	height: 300;
+ 	margin-left: 500;
+ 	margin-bottom: -500;
+ }
+#amarelo
+{
+	color: yellow;
+}
